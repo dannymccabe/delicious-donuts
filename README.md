@@ -1,11 +1,4 @@
 # Custom Shopify Store 
-### Desktop
-![Desktop view](Screenshot 2022-08-15 at 15.34.47.png)
-
-### Mobile 
-![mobile view](Screenshot 2022-08-15 at 15.33.12.png)
-![mobile view](Screenshot 2022-08-15 at 15.33.40.png)
-
 
 ## What's Going On?
 I set up a shopify partner store for the back end. I linked it to the hydrogen front end using a demo store initially for set up. Styling is tailwind.css, language is javascript. Hydrogen is the new Shopify React Framework. 
